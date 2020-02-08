@@ -1,0 +1,22 @@
+{
+  "name": "countdown-timer",
+  "version": "1.0.0",
+  "description": "Event Countdown Timer app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devmueez/countdown-timer.git"
+  },
+  "keywords": [
+    "countdown"
+  ],
+  "author": "Mueez Aslam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devmueez/countdown-timer/issues"
+  },
+  "homepage": "https://github.com/devmueez/countdown-timer#readme"
+}
